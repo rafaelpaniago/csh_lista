@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Comentário
+
+/*
+    Comentário 2
+*/
+
+
+Console.WriteLine("Hello world");
+Console.Write("Linha 2");
